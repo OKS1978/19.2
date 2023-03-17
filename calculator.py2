@@ -1,0 +1,4 @@
+class Calculator:
+
+    def division(self, x, y):
+        return x / y
